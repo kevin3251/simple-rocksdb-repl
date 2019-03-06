@@ -1,0 +1,12 @@
+{
+  "name": "simple-rocksdb-repl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "simple-rocksdb-repl": "./index.js"
+  },
+  "dependencies": {
+    "level-rocksdb": "^3.0.1"
+  }
+}
